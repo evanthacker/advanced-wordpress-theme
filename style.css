@@ -158,5 +158,24 @@ footer.main-footer{
 }
 
 footer.main-footer .f_left{
-    
+    float: left;
+}
+
+footer.main-footer .f_right{
+    float: right;
+    margin-top: 15px;
+}
+
+footer.main-footer ul{
+    display: inline;
+}
+
+footer.main-footer li{
+    float: left;
+    padding-right: 10px;
+    list-style: none;
+}
+
+footer.main-footer a{
+    color: #fff;
 }
